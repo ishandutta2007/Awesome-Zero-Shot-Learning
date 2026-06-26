@@ -1,11 +1,34 @@
-# Awesome-Zero-Shot-Learning
-## Zero-Shot Learning (ZSL): Evolution, Variants, Types, & Applications
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Zero-Shot Learning Banner" width="100%" />
+</div>
 
-Zero-Shot Learning (ZSL) is an advanced machine learning paradigm where a model learns to recognize, classify, or reason about completely novel target classes that it never explicitly encountered during its training phase. Traditional supervised classification models require dozens or thousands of annotated examples for every single target class. ZSL breaks away from this limitation by leveraging intermediate auxiliary information—such as textual descriptions, semantic attribute vectors, or shared embedding spaces—to bridge the gap between known source categories and unknown destination categories, mirroring the human ability to identify an object based purely on a linguistic description.
+# Awesome Zero-Shot Learning (ZSL) 🚀
+
+> A curated list of zero-shot learning resources, evolution phases, operational variants, auxiliary semantic spaces, engineering mitigations, and frontier real-world applications.
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Zero-Shot-Learning/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Zero-Shot-Learning?style=flat-square&logo=github" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Zero-Shot-Learning/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Zero-Shot-Learning?style=flat-square" alt="GitHub Issues"/></a> <a href="https://github.com/ishandutta2007/Awesome-Zero-Shot-Learning/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Zero-Shot-Learning?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
-## 1. The Chronological Evolution
+## 📌 Table of Contents
+- [📖 Introduction](#-introduction)
+- [📅 1. The Chronological Evolution](#-1-the-chronological-evolution)
+- [⚙️ 2. Core Operational & Setting Variants](#%EF%B8%8F-2-core-operational--setting-variants)
+- [🌐 3. Semantic Auxiliary Spaces](#-3-semantic-auxiliary-spaces)
+- [⚠️ 4. Production Engineering Bottlenecks & Mitigations](#%EF%B8%8F-4-production-engineering-bottlenecks--mitigations)
+- [🚀 5. Frontier Real-World Applications](#-5-frontier-real-world-applications)
+
+---
+
+## 📖 Introduction
+
+**Zero-Shot Learning (ZSL)** is an advanced machine learning paradigm where a model learns to recognize, classify, or reason about completely novel target classes that it never explicitly encountered during its training phase. Traditional supervised classification models require dozens or thousands of annotated examples for every single target class. ZSL breaks away from this limitation by leveraging intermediate auxiliary information—such as textual descriptions, semantic attribute vectors, or shared embedding spaces—to bridge the gap between known source categories and unknown destination categories, mirroring the human ability to identify an object based purely on a linguistic description. 🧠
+
+---
+
+## 📅 1. The Chronological Evolution
 
 The technical progression of zero-shot execution has transitioned from rigid, hand-crafted attribute grids to generative data reconstruction, moving toward fluid, open-vocabulary foundation spaces.
 
@@ -24,7 +47,7 @@ flowchart LR
 
 ---
 
-## 2. Core Operational & Setting Variants
+## ⚙️ 2. Core Operational & Setting Variants
 
 Zero-shot algorithms are strictly categorized based on whether the test evaluation space is restricted to purely novel classes or open to the entire dataset landscape.
 
@@ -36,7 +59,7 @@ Zero-shot algorithms are strictly categorized based on whether the test evaluati
 
 ---
 
-## 3. Semantic Semantic Auxiliary Spaces
+## 🌐 3. Semantic Auxiliary Spaces
 
 To execute zero-shot translations, models rely on different intermediate semantic spaces to transfer knowledge from seen to unseen distributions.
 
@@ -48,7 +71,7 @@ To execute zero-shot translations, models rely on different intermediate semanti
 
 ---
 
-## 4. Production Engineering Bottlenecks & Mitigations
+## ⚠️ 4. Production Engineering Bottlenecks & Mitigations
 
 Deploying zero-shot classification profiles into high-throughput enterprise systems requires balancing projection limits and data distributions.
 
@@ -59,7 +82,7 @@ Deploying zero-shot classification profiles into high-throughput enterprise syst
 
 ---
 
-## 5. Frontier Real-World Applications
+## 🚀 5. Frontier Real-World Applications
 
 | Application | Application Details | Year First Used | First Used Paper |
 | :--- | :--- | :---: | :--- |
