@@ -9,9 +9,12 @@ Zero-Shot Learning (ZSL) is an advanced machine learning paradigm where a model 
 
 The technical progression of zero-shot execution has transitioned from rigid, hand-crafted attribute grids to generative data reconstruction, moving toward fluid, open-vocabulary foundation spaces.
 
-[Attribute-Mapping Era (2009-2018)] ----> [Generative ZSL (GAN/VAE, 2018-2021)] ----> [Foundation Open-Vocabulary (2021-Present)](Manual Property Matrices)                (Synthesizing Fake Visual Features)          (Fluid Semantic Embedding Alignments)
-
-
+```mermaid
+flowchart LR
+    A["Attribute-Mapping Era (2009-2018)<br/>(Manual Property Matrices)"]
+    --> B["Generative ZSL (GAN/VAE, 2018-2021)<br/>(Synthesizing Fake Visual Features)"]
+    --> C["Foundation Open-Vocabulary (2021-Present)<br/>(Fluid Semantic Embedding Alignments)"]
+```
 
 *   **The Attribute-Mapping Era (Lampert et al., 2009 / Farhadi et al., 2009)**
     *   *Concept:* The foundation. Established zero-shot classification by breaking down categories into high-level, human-defined semantic attributes (e.g., `[has_stripes: yes, has_wings: no, lives_in_water: no]`). The model learns to detect these individual attributes on known objects and associates them at test time to identify an unseen animal (like a zebra).
