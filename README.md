@@ -90,3 +90,17 @@ Deploying zero-shot classification profiles into high-throughput enterprise syst
 | [**Dynamic E-Commerce Category & Inventory Tagging**](details/ecommerce_tagging.md) | **Application:** Automated warehouse stock tagging systems. When a retail marketplace drops an entirely new line of customized seasonal goods, zero-shot perception engines automatically index and tag incoming warehouse photos with long-tail metadata without requiring any classification model retraining loops. | 2022 | [Yang et al. (2022)](https://arxiv.org/abs/2112.08316) |
 | [**Zero-Shot Content Moderation & Policy Enforcement**](details/content_moderation.md) | **Application:** Monitored text and image moderation engines. Trust and safety teams update online safety guidelines dynamically by entering natural language descriptions of emerging malicious behavior or complex online safety violations. The zero-shot model screens live user text and image posts instantly for those unique guidelines without manual annotation intervals. | 2023 | [OpenAI (2023)](https://openai.com/index/using-gpt-4-for-content-moderation/) |
 
+---
+
+## 📈 Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Zero-Shot-Learning&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Zero-Shot-Learning&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Zero-Shot-Learning&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Zero-Shot-Learning&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
+
